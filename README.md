@@ -1,1 +1,1 @@
-# BSE-192-SDC-LAB01
+# BSE-192-SDC-LAB01  Demonstration
